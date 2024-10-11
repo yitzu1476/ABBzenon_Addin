@@ -1,0 +1,26 @@
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\bin\Debug\IEC61850_FileTransfer.dll
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\bin\Debug\IEC61850_FileTransfer.pdb
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\bin\Debug\IEC61850_FileTransfer.scadaAddIn
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.csproj.AssemblyReference.cache
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.csproj.CopyComplete
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.dll
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.pdb
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.Form1.resources
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.csproj.GenerateResource.cache
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.Properties.Resources.resources
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.Form2.resources
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\bin\Debug\IEC61850_FileTransfer.dll
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\bin\Debug\IEC61850_FileTransfer.pdb
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\bin\Debug\IEC61850_FileTransfer.scadaAddIn
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.csproj.AssemblyReference.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.Form1.resources
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.Form2.resources
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.Properties.Resources.resources
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.csproj.GenerateResource.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\obj\Debug\IEC61850.CFD26DA3.Up2Date
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.dll
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FileTransfer\obj\Debug\IEC61850_FileTransfer.pdb

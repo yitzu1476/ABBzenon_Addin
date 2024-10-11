@@ -1,0 +1,18 @@
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTPAuto_DRtrig\bin\Debug\IEC61850_FTPAuto_DRtrig.dll
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTPAuto_DRtrig\bin\Debug\IEC61850_FTPAuto_DRtrig.pdb
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTPAuto_DRtrig\bin\Debug\IEC61850_FTPAuto_DRtrig.scadaAddIn
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTPAuto_DRtrig\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850_FTPAuto_DRtrig.csproj.AssemblyReference.cache
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850_FTPAuto_DRtrig.csproj.CoreCompileInputs.cache
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850_FTPAuto_DRtrig.csproj.CopyComplete
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850_FTPAuto_DRtrig.dll
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850_FTPAuto_DRtrig.pdb
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTPAuto_DRtrig\bin\Debug\IEC61850_FTPAuto_DRtrig.dll
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTPAuto_DRtrig\bin\Debug\IEC61850_FTPAuto_DRtrig.pdb
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTPAuto_DRtrig\bin\Debug\IEC61850_FTPAuto_DRtrig.scadaAddIn
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTPAuto_DRtrig\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850_FTPAuto_DRtrig.csproj.AssemblyReference.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850_FTPAuto_DRtrig.csproj.CoreCompileInputs.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850.E2A8F487.Up2Date
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850_FTPAuto_DRtrig.dll
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTPAuto_DRtrig\obj\Debug\IEC61850_FTPAuto_DRtrig.pdb

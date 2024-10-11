@@ -1,0 +1,18 @@
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\Service_ChangeExportFileName\bin\Debug\Service_ChangeExportFileName.dll
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\Service_ChangeExportFileName\bin\Debug\Service_ChangeExportFileName.pdb
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\Service_ChangeExportFileName\bin\Debug\Service_ChangeExportFileName.scadaAddIn
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\Service_ChangeExportFileName\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\Service_ChangeExportFileName\obj\Debug\Service_ChangeExportFileName.csproj.AssemblyReference.cache
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\Service_ChangeExportFileName\obj\Debug\Service_ChangeExportFileName.csproj.CoreCompileInputs.cache
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\Service_ChangeExportFileName\obj\Debug\Service_ChangeExportFileName.csproj.CopyComplete
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\Service_ChangeExportFileName\obj\Debug\Service_ChangeExportFileName.dll
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\Service_ChangeExportFileName\obj\Debug\Service_ChangeExportFileName.pdb
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\Service_ChangeExportFileName\bin\Debug\Service_ChangeExportFileName.dll
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\Service_ChangeExportFileName\bin\Debug\Service_ChangeExportFileName.pdb
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\Service_ChangeExportFileName\bin\Debug\Service_ChangeExportFileName.scadaAddIn
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\Service_ChangeExportFileName\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\Service_ChangeExportFileName\obj\Debug\Service_ChangeExportFileName.csproj.AssemblyReference.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\Service_ChangeExportFileName\obj\Debug\Service_ChangeExportFileName.csproj.CoreCompileInputs.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\Service_ChangeExportFileName\obj\Debug\Service_.B0B27949.Up2Date
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\Service_ChangeExportFileName\obj\Debug\Service_ChangeExportFileName.dll
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\Service_ChangeExportFileName\obj\Debug\Service_ChangeExportFileName.pdb

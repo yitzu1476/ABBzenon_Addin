@@ -1,0 +1,22 @@
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\bin\Debug\IEC61850_FTOAuto_DRtrig_Editor.dll
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\bin\Debug\IEC61850_FTOAuto_DRtrig_Editor.pdb
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\bin\Debug\IEC61850_FTOAuto_DRtrig_Editor.scadaAddIn
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.csproj.AssemblyReference.cache
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.csproj.CoreCompileInputs.cache
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.csproj.CopyComplete
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.dll
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.pdb
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.Form1.resources
+C:\Users\TWJOHUA1\Joyce - Work\013 zenon Add-ins\News\SCADA_Addins\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.csproj.GenerateResource.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\bin\Debug\IEC61850_FTOAuto_DRtrig_Editor.dll
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\bin\Debug\IEC61850_FTOAuto_DRtrig_Editor.pdb
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\bin\Debug\IEC61850_FTOAuto_DRtrig_Editor.scadaAddIn
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\bin\Debug\Scada.AddIn.Contracts.xml
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.csproj.AssemblyReference.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.Form1.resources
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.csproj.GenerateResource.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.csproj.CoreCompileInputs.cache
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850.C4C2B417.Up2Date
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.dll
+C:\Users\TWJOHUA1\source\repos\ABBzenon_Addin\IEC61850_FTOAuto_DRtrig_Editor\obj\Debug\IEC61850_FTOAuto_DRtrig_Editor.pdb
