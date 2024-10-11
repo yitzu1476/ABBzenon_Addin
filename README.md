@@ -8,12 +8,12 @@ This repository contains several add-in projects for COPA-DATA zenon SCADA syste
 **IEC 61850 FTP Tool**
 - IEC 61850 FTP Tool (Manual)
   - This program opens up a page in Runtime for with access of Disturbance Records through IEC 61850 to relays.
-  - See [description file](DescriptionFiles/FTP+Tool+-+Manual+FTP+Tool+Explains.pdf) for details.
+  - See [description file](DescriptionFiles/) for details.
   - Folder: [IEC61850_FileTransfer](IEC61850_FileTransfer/)<br />
     
 - IEC 61850 FTP Tool (Auto)
     - This program collect Disturbance records and download to local pc automatically when a record is created in relay.
-    - See description file for details.
+    - See [description file](DescriptionFiles/FTP%20Tool%20–%20Auto%20FTP%20Tool%20with%20DRtrig.pdf) for details.
     - Folder: [IEC61850_FTOAuto_DRtrig_Editor](IEC61850_FTOAuto_DRtrig_Editor/), [IEC61850_FTPAuto_DRtrig](IEC61850_FTPAuto_DRtrig/)<br /><br />
 
 **IEC 61850 Diagnosis Tool**
