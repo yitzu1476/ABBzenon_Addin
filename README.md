@@ -8,7 +8,7 @@ This repository contains several add-in projects for COPA-DATA zenon SCADA syste
 **IEC 61850 FTP Tool**
 - IEC 61850 FTP Tool (Manual)
   - This program opens up a page in Runtime for with access of Disturbance Records through IEC 61850 to relays.
-  - See [description file](DescriptionFiles/FTP%20Tool%20–%20Manual%20FTP520Tool%20Explains.pdf) for details.
+  - See [description file](DescriptionFiles/FTP%20Tool%20–%20Manual%20FTP%20Tool%20Explains.pdf) for details.
   - Folder: [IEC61850_FileTransfer](IEC61850_FileTransfer/)<br />
     
 - IEC 61850 FTP Tool (Auto)
@@ -36,7 +36,7 @@ This repository contains several add-in projects for COPA-DATA zenon SCADA syste
 **Report Tool**
 - Archive to CSV Report Tool
   - This program create csv file from selected archive data.
-  - See [description file](DescriptionFiles/Report%20Tool%20-%20Archive%20to%20CSV%20Explains.pdf) for details.
+  - See [description file](DescriptionFiles/Report%20Tool%20–%20Archive%20to%20CSV%20Explains.pdf) for details.
   - Folder: [Archive2CSV](Archive2CSV/)<br />
   
 - Filename Service Tool
