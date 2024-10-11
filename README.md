@@ -41,12 +41,12 @@ This repository contains several add-in projects for COPA-DATA zenon SCADA syste
   
 - Filename Service Tool
   - This program changes filename automatically after creating report files.
-  - See [description file](DescriptionFiles/Report%20Tool%20-%20Filename%20Service%20Explains.pdf) for details.
+  - See [description file](DescriptionFiles/Report%20Tool%20–%20Filename%20Service%20Explains.pdf) for details.
   - Folder: [Service_ChangeExportFileName](Service_ChangeExportFileName/)<br />
   
 - Report Tool with equipment model
   - This program create report files with equipment modelling setting and selected content.
-  - See [description file](DescriptionFiles/Report%20Tool%20-%20Equipment%20Model%20Report%20Creator%20Explains.pdf) for details.
+  - See [description file](DescriptionFiles/Report%20Tool%20–%20Equipment%20Model%20Report%20Creator%20Explains.pdf) for details.
   - Folder: [ReportCreator_EquipmentModel](ReportCreator_EquipmentModel), [ReportCreator_EnergyArchiveTool](ReportCreator_EnergyArchiveTool/)<br />
   
 
